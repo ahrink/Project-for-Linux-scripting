@@ -14,6 +14,7 @@ San Anton 20230708
 Composition? Same motif [as Dialog-sh-script-101] except renamed all files, adding user input process, cleaning up a few leftover. Verified all links and apparently didn’t failed. – it is functioning.
 
 This is now a project that will require many branches depending on the OS version and “tools” employed. 
+
 Thinking of a “title”? -- if it is not a tools box, it is a toy.
 
 Anybody could bring updates as long as it is a working code. 
