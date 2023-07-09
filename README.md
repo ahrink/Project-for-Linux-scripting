@@ -33,6 +33,7 @@ Have fun,
 San Anton
 PS: All open code, and spare my intellect from wasting time with writing disclaimers, infringements etc.
 Fact is, it is provided as is with no liability attach other than didactic.
+
 More when it comes as it comes:
 © San Anton™ [t] AHR: in pretio procedere doctrina speramus
         https://www.zerohedge.com/user/339741
