@@ -97,3 +97,7 @@ i7F="aDInstall.sh,aDStart.sh,aDApp.sh,aDConfig.ahr,aDTmp.ahr,xChineseQ.ahr,xFunc
 #
 # Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
 # https://github.com/ahrink/Praevisio-Installer
+# ...
+# and this “guy Kylin” a good Canonical oem mode, is my desktop
+# https://github.com/ahrink/Ubuntu-Kylin-23.04
+
