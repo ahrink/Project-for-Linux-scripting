@@ -91,3 +91,9 @@ i7F="aDInstall.sh,aDStart.sh,aDApp.sh,aDConfig.ahr,aDTmp.ahr,xChineseQ.ahr,xFunc
 20230708 [i7F to code this correlation, looks like it needs error checking and backup]
 
 ...
+# asof="20230805"
+# added simAHR.sh
+# https://github.com/ahrink/stamp
+#
+# Praevisio Installer is simulation implementing the ahr_stamp as a service for future projects:
+# https://github.com/ahrink/Praevisio-Installer
