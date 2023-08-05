@@ -25,6 +25,8 @@ Composition:
 3. [work space] a Dialog experiment -> per user-input
 4. All other components are Files [used by aDApp.sh]
 5. This code was tested and working on fresh Ubuntu 22.04
+# Changes: rewrite the installer to suffice for development of old new in context of file distribution
+# https://github.com/ahrink/Praevisio-Installer
 
 Process: [all confined to a folder]
 Once the app is initialized is expecting the user to enjoy a variety of shell sh programing mostly focused on Dialog usage. However, the working-code includes examples that many coders have a hard time understanding. As a result, a secondary thought is implied eg didactic.
